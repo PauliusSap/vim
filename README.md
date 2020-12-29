@@ -1,0 +1,1 @@
+# vimrc (No longer supported)
